@@ -1,3 +1,2 @@
 # Lab2
- Lab2 
-It can help you do some simple calculations
+ Lab2 can help you do some simple calculations
